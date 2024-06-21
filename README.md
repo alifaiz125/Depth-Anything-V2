@@ -20,6 +20,7 @@ This work presents Depth Anything V2. It significantly outperforms [V1](https://
 ![teaser](assets/teaser.png)
 
 ## News
+# mdfaiz-demo
 
 - **2024-06-22:** We release [smaller metric depth models](https://github.com/DepthAnything/Depth-Anything-V2/tree/main/metric_depth#pre-trained-models) based on Depth-Anything-V2-Small and Base.
 - **2024-06-20:** Our repository and project page are flagged by GitHub and removed from the public for 6 days. Sorry for the inconvenience.
